@@ -1,5 +1,5 @@
 // import the data from data.js
-const tableData = Data;
+const tableData = data;
 // Reference the HTML table using d3
 var tbody = d3.select("tbody");
 
@@ -35,6 +35,6 @@ function handleClick() {
     // Attach an event to listen for the form button.
     d3.selectAll("#filter-btn").on("click", handleClick);
 
-    // Builtd the table when the page loads.
+    // Build the table when the page loads.
     buildTable(tableData);
 };
