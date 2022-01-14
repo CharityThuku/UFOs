@@ -1,6 +1,6 @@
 # UFOs
 ## Overview of the Project 
-- Using Javascript and HTML, we sifted thorugh data, filtered it and created a table to view on a webpage.
+- Using Javascript and HTML, we sifted through data, filtered it and created a table to view on a webpage.
  ## Results 
  - Below is the webage that was created. 
  ![Webpage](https://user-images.githubusercontent.com/85714314/132157594-9fb52eda-6948-423c-85cb-195b93a7e62a.png)
